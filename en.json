@@ -1,0 +1,20 @@
+{
+  "agency_name": "Lalangua",
+  "owner_label": "Owner:",
+  "owner_name": "Tsisaruk Yana",
+  "about_title": "About us",
+  "about_text": "We provide professional translation services for the global market.",
+  "industries_title": "Fields of translation",
+  "ind_business": "Business & Finance",
+  "ind_edu": "Education & E-learning",
+  "ind_tech": "IT & Technology",
+  "rates_title": "Pricing",
+  "rate_standard": "Standard — $0.05/word",
+  "rate_pro": "Expert — $0.08/word",
+  "lang_pair_title": "Choose a language pair:",
+  "pair_1": "Ukrainian – English",
+  "pair_2": "Ukrainian - French",
+  "pair_3": "Ukrainian - Spanish",
+  "btn_order": "Order a project",
+  "btn_lang": "Change Language / Змінити мову"
+}
